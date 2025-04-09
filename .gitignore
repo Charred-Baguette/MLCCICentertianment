@@ -172,5 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< Updated upstream
 Froggr-mycopy.ipynb
+=======
+>>>>>>> Stashed changes
 Froggr.ipynb
